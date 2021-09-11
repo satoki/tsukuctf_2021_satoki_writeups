@@ -18,8 +18,8 @@ VirusTotalでの問題を作りたかったです。
 「検体　zip　パスワード」で検索するといろいろと情報が出てくるので試せばよい。  
 ちなみに総当たりや辞書でも解けると思われる。  
 解凍したファイルを調査するとELFであることがわかるので、[VirusTotal](https://www.virustotal.com)でスキャンする。  
-すると以下のように以前にスキャンした結果が表示される。  
+すると以下のように以前に誰かがスキャンした結果が表示される。  
 ![images/image1.png](images/image1.png)  
-スキャンされたファイル名がflagだった。
+以前にスキャンされたファイル名がflagだった。  
 
 ## TsukuCTF{Careless_uploading_is_dangerous}
