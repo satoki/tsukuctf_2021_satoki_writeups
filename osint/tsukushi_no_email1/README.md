@@ -19,6 +19,6 @@ Googleを利用した問題を出したいと思い、作問しました。
 アイコン部分に何か表示されているのがわかるので、開発者ツールなどで画像を大きめに表示してやる。  
 ![images/unnamed.jpg](images/unnamed.jpg)  
 flagが書かれていた。  
-ちなみに[Tsukushi_no_email2](../tsukushi_no_email2)を用いることでも取得できる。  
+ちなみに[Tsukushi_no_email2](../tsukushi_no_email2)で利用したGHuntを用いることでも取得できる。  
 
 ## TsukuCTF{Google_kingdom}
